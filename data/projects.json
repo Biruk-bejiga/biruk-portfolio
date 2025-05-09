@@ -1,0 +1,40 @@
+{
+    "projects": [
+      {
+        "title": "YouTube Home Page Clone",
+        "url": "https://github.com/Biruk-bejiga/Youtube-Home-Clone",
+        "description": "A responsive clone of the YouTube homepage, showcasing video thumbnails, a navigation bar, and a clean layout that mimics the original design.",
+        "tools": ["HTML", "CSS"]
+      },
+      {
+        "title": "Amazon Website Clone",
+        "url": "https://github.com/Biruk-bejiga/BirukAmazonClone.com",
+        "description": "An interactive clone of the Amazon shopping experience, featuring product listings, a shopping cart, and dynamic elements using JavaScript for enhanced user interaction.",
+        "tools": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "title": "Job Listing Platform",
+        "url": "https://github.com/Biruk-bejiga/biruk-jobs",
+        "description": "A modern job listing platform that allows users to browse, filter, and apply for jobs, built with React for a seamless user experience and styled with Tailwind CSS for responsiveness.",
+        "tools": ["ReactJS", "Tailwind CSS"]
+      },
+      {
+        "title": "AI-Based Note Taking App",
+        "url": "https://github.com/Biruk-bejiga/AI-Based-Note-Taking-App",
+        "description": "A mobile application that leverages AI to enhance note-taking, allowing users to organize, categorize, and retrieve notes efficiently, built with React Native and Expo for cross-platform functionality.",
+        "tools": ["React Native", "Expo"]
+      },
+      {
+        "title": "To-Do List",
+        "url": "https://github.com/Biruk-bejiga/Todo-List-application",
+        "description": "A simple yet effective to-do list application that enables users to add, edit, and delete tasks, built with React Native for mobile platforms and Expo for quick deployment.",
+        "tools": ["React Native", "Expo"]
+      },
+      {
+        "title": "Movie Streaming Website",
+        "url": "https://github.com/Biruk-bejiga/bura-movie-app",
+        "description": "A dynamic movie streaming platform that allows users to browse and watch movies, featuring a clean interface and responsive design built with React for optimal performance.",
+        "tools": ["ReactJS"]
+      }
+    ]
+  }
